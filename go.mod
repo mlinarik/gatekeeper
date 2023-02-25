@@ -18,8 +18,8 @@ require (
 	github.com/prometheus/client_golang v1.1.0
 	go.opencensus.io v0.22.2
 	go.uber.org/zap v1.13.0
-	golang.org/x/net v0.0.0-20201016165138-7b1cca2348c0
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+	golang.org/x/net v0.7.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.18.6
 	k8s.io/apiextensions-apiserver v0.18.6
