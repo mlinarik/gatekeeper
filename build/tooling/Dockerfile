@@ -1,4 +1,4 @@
-FROM golang:1.15-alpine
+FROM golang:1.24.4-alpine
 
 # Alpine lacks CGO libraries needed by `controller-gen`
 RUN apk add --no-cache build-base
